@@ -1,0 +1,9 @@
+SLA Batteries are *way* too heavy. Lithium-ion batteries seem like a better option now.
+The DC motors on the robot do not give enough torque. This can be fixed with more gears, but, metal gearboxes now seem like a better idea, as mounting plastic gears to steel rods effectiely is basically impossible without a drill press, which I don't have. Also, a metal gearbox can save me space, allowing for more modifications to the robot.
+The current gear design is at-most ok on flat, hard, ground. They are too stiff, and have low friction. It is better to design larger wheels, make them yield to pressure better, and possibly coat them in a high-friction material. Also, if the elevation on each side of the robot is different, one wheel will spin without actually making the robot move.
+The robot will still move because of breaking, as the friction isn't enough to completely counteract the robot's momentum, which is even larger with the heavy battery.
+
+Future changes:
+-Metal gearbox with better motor, to provide higher torque
+-Wheels that yield to presure better and provide more friction
+-Lighter battery
