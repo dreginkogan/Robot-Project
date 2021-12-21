@@ -10,3 +10,6 @@ Just a robot that drives around I guess
   <img src="https://user-images.githubusercontent.com/75654428/146999704-33d65ba0-9a0e-483b-b91d-7b1aad4f851b.jpg" width="600"/>
 </p>
 
+------------------
+videos:
+https://www.youtube.com/watch?v=NOP5lisCpfA&list=PLNNotAlA-lrEumtGw5MK10c69R9y6Rw0v&index=7
